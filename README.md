@@ -31,19 +31,19 @@ Python 3 installed on your device.
 
 Clone the repository to your device and run the following command in the command prompt/terminal :
 
-  python <absolute_path>/tic-tac-toe.py                # python C:\Users\device_name\Desktop\rps.py
-                                                       # python /etc/mnt/c/Users/device_name/Desktop/rps.py
+            python <absolute_path>/tic-tac-toe.py                # python C:\Users\device_name\Desktop\rps.py
+                                                                 # python /etc/mnt/c/Users/device_name/Desktop/rps.py
 OR
 If you opened the terminal in C directory type:
 
-  python <relative_path>/tic-tac-toe.py                # python \device_name\Desktop\rps.py
-                                                       # python /device-name/Desktop/rps.py
+            python <relative_path>/tic-tac-toe.py                # python \device_name\Desktop\rps.py
+                                                                 # python /device-name/Desktop/rps.py
 
 OR
 
 You can go to the location where the file is saved and you can open the command prompt/terminal there and just type:
 
-  python tic-tac-toe.py
+            python tic-tac-toe.py
 
 **Create an Application Extension (.exe) file and play**
 
@@ -54,7 +54,7 @@ py2exe
 
 To install py2exe just type the following in the terminal:
 
-  pip install py2exe        Or      python -m pip install py2exe
+            pip install py2exe        Or      python -m pip install py2exe
 
 After fulfilling above requirements
 
@@ -62,7 +62,7 @@ After fulfilling above requirements
 
 * Run the setup.py file by using the command :
 
-    python setup.py py2exe              #you can run by any method given above
+            python setup.py py2exe              #you can run by any method given above
 
 * It will create a folder named dist (you can rename this folder as Tic-Tac-Toe or TTT).
 
