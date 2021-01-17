@@ -25,7 +25,7 @@ A 2 player terminal Tic Tac Toe game
 
 **Requirement to play**
 
-Python 3 installed on your device.
+* Python 3 installed on your device.
 
 **How to start playing**
 
@@ -49,8 +49,8 @@ You can go to the location where the file is saved and you can open the command 
 
 **Requirements**
 
-Python 3 installed
-py2exe
+* Python 3 installed
+* py2exe
 
 To install py2exe just type the following in the terminal:
 
