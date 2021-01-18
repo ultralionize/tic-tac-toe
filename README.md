@@ -31,13 +31,13 @@ A 2 player terminal Tic Tac Toe game
 
 Clone the repository to your device and run the following command in the command prompt/terminal :
 
-            python <absolute_path>/tic-tac-toe.py                # python C:\Users\device_name\Desktop\rps.py
-                                                                 # python /etc/mnt/c/Users/device_name/Desktop/rps.py
+            python <absolute_path>/tic-tac-toe.py               # python C:\Users\device_name\Desktop\tic-tac-toe.py
+                                                                # python /etc/mnt/c/Users/device_name/Desktop/tic-tac-toe.py
 OR
 If you opened the terminal in C directory type:
 
-            python <relative_path>/tic-tac-toe.py                # python \device_name\Desktop\rps.py
-                                                                 # python /device-name/Desktop/rps.py
+            python <relative_path>/tic-tac-toe.py               # python \device_name\Desktop\tic-tac-toe.py
+                                                                # python /device-name/Desktop/tic-tac-toe.py
 
 OR
 
